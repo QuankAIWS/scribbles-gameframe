@@ -1,0 +1,15 @@
+{
+  "gzipStatus": 1,
+  "compressedBytes": 101250,
+  "compressedSha256": "6e93e54b9047bb8648898f123e1ea606b545263da7641c5a73728bc544519ff0",
+  "recoveredBytes": 0,
+  "recoveredSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "pngSignatureOffsets": [],
+  "completePngCandidates": [],
+  "approvedMatches": [],
+  "expectedApprovedHashes": [
+    "5eb658e2d822edfc8e0941227cd317ccbe445f195e01fa6c1864d56824f0557a",
+    "6e50fe930bfc7b8d1bd93bf5ae859386c5156f851c93f6e08aba12649017bd32",
+    "9654237ba8aa56949e50c9e29959e616d4dfb2ea7747c7623058e14caa095001"
+  ]
+}
